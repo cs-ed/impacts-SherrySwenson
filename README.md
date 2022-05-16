@@ -1,3 +1,5 @@
+![alt text](https://user-images.githubusercontent.com/89324472/168697505-f1ca5e86-0b95-4c1b-a882-b72fb6aef4d9.png)
+
 # Impacts on Society
 
 Introduction to Computer Science: This course will be available to middle school or 9th grade students as an elective course. It has been a difficult number of years for Paradise Unified School District, starting with the Camp Fire devastation and continuing with the Covid 19 pandemic before adequate recovery could take place. There have not been many opportunities for diversification in courses and the emphasis has been on educational basics. 
