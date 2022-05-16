@@ -11,15 +11,15 @@ This course will serve as an introduction to computer science concepts using Pro
 CS Explorations 2: Artificial Intelligence
 > This course provides students with an introduction to artificial intelligence, designed around engaging activities and lessons that integrate CS and computational thinking concepts with ethical design and responsible use, as students explore how these technologies can help solve problems and improve life for themselves and their communities.
 
-Block A: Getting Started With Artificial Intelligence
+- Block A: Getting Started With Artificial Intelligence
 Knowledge comprehension application analysis synthesis evaluation
 Receiving responding valuing organizing characterizing
 
-Block B: Representation, Reasoning, and Machine Learning
+- Block B: Representation, Reasoning, and Machine Learning
 Knowledge comprehension application analysis synthesis evaluation
 Receiving responding valuing organizing characterizing
 
-Block C: Generative AI and Applied AI
+- Block C: Generative AI and Applied AI
 Knowledge comprehension application analysis synthesis evaluation
 Receiving responding valuing organizing characterizing
 
