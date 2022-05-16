@@ -31,7 +31,7 @@ Describe the learning activities and how they will be incorporated into the clas
 
 ### Assessment
 
-Formative assessment will be ongoing.  The emphasis is on learning and growing rather than summative assessment.  I will adapt and formulate my rubric according to the model set by SFUSD at https://sites.google.com/sfusd.edu/csplc/resources/teaching-rubric.  This rubric focuses not just on performing tasks - rather, it allows teachers to reflect on the effectiveness of their teaching practices at the same time and make adjustments as needed.  The goal of assessments is to identify need and ensure student understanding. If students are not able to master concepts, it will be incumbent upon me to adapt and enhance instruction. Students will be given additional opportunities to meet objectives with reteaching. 
+Formative assessment will be ongoing.  The emphasis is on learning and growing rather than summative assessment.  I will adapt and formulate my rubric according to the model set by [SFUSD](https://sites.google.com/sfusd.edu/csplc/resources/teaching-rubric).  This rubric focuses not just on performing tasks - rather, it allows teachers to reflect on the effectiveness of their teaching practices at the same time and make adjustments as needed.  The goal of assessments is to identify need and ensure student understanding. If students are not able to master concepts, it will be incumbent upon me to adapt and enhance instruction. Students will be given additional opportunities to meet objectives with reteaching. 
 
 ### Outcomes
 
