@@ -22,7 +22,7 @@ Formative assessment will be ongoing.  The emphasis is on learning and growing r
 
 The course will initially be showcased in the school's Elective Fair to be sure that all students become familiar with the availability of the course and what it consists of.  I will coordinate with the student broadcast to have the course covered in announcements.  We can discuss in LCAP how to disseminate information and  liason with site council on fund availability for the program. Much like Leadership programs, students will not be required to have a minimum GPA to add the course.
 
-Since this is an introductory course, a desired outcome would be to generate an interest in computer science in students who had not previously had access to the content through education.  It would serve as an access course to future computer science classes and provide a basic understanding of computer science and the ethics involved.  
+Since this is an introductory course, a desired outcome would be to generate an interest in computer science in students who had not previously had access to the content through education.  It would serve as an access course to future computer science classes and provide a basic understanding of computer science and the ethics involved,opening avenues of study not previously available in an inclusionary process that makes students feel connected and capable.
  
 ### References
 
