@@ -42,4 +42,4 @@ Since this is an introductory course, a desired outcome would be to generate an 
 
 [Project Stem](https://projectstem.org/middle-school-cs2-demo/cse2-scope-and-sequence)
 
-https://sites.google.com/sfusd.edu/csplc/resources/teaching-rubric
+[SFUSD Teaching Rubric](https://sites.google.com/sfusd.edu/csplc/resources/teaching-rubric)
