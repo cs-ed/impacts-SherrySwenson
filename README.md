@@ -39,6 +39,7 @@ CS Explorations 2: Artificial Intelligence - This curriculum was chosen because 
 
 In support of inclusion, no prerequisites will be required. Students will engage in a variety of blended learning activities to foster equity and true learning.  Large group instruction will not be the norm.  Instead, small groups and hands-on learning will be preferred.  I will give students choices in research and projects and ensure the relevance of topics and theory to my students and to course outcomes.  Decision making will be a key concept in which all students will engage.
 
+At the start of each section, we will begin with an overview of topics as an introduction. We will apply a mix of real world examples and coding activities. We will research data.  We will play games. We will debate. Each block will end with a five day coding project.
 
 
 ### Assessment
