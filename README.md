@@ -13,17 +13,27 @@ CS Explorations 2: Artificial Intelligence - This curriculum was chosen because 
 > This course provides students with an introduction to artificial intelligence, designed around engaging activities and lessons that integrate CS and computational thinking concepts with ethical design and responsible use, as students explore how these technologies can help solve problems and improve life for themselves and their communities.
 
 - Block A: Getting Started With Artificial Intelligence
-Knowledge comprehension application analysis synthesis evaluation
-Receiving responding valuing organizing characterizing
 
 - Block B: Representation, Reasoning, and Machine Learning
-Knowledge comprehension application analysis synthesis evaluation
-Receiving responding valuing organizing characterizing
 
 - Block C: Generative AI and Applied AI
-Knowledge comprehension application analysis synthesis evaluation
-Receiving responding valuing organizing characterizing
 
+Remember/Understand/ApplyA/nalyze/Evaluate/Create
+Students start exploring what artificial intelligence is and how it is defined. 
+Students will begin with an overview of topics including the definition of intelligence, the key principles that will be covered in this course, and how to use Scratch.
+Students are introduced to artificial intelligence in more detail as they examine four fields that rely on AI technology every day: robotics, entertainment, social media, and chatbots.
+Students will continue to build a strong understanding of artificial intelligence and the technology that it is used to create.
+Students will apply what they've learned about artificial intelligence to create a unique, creative program in Scratch.
+Students will explore representations of data structures and how AI technology uses representations and reasoning to make decisions. 
+Students will look at various ways that data can be represented, whether by looking at data represented hierarchically in a decision tree, locations represented in a coordinate graph, or the representation of words and natural language. 
+Students will explore machine learning, a hot topic in AI.
+Students will see that supervised machine learning can be used to create classification models, examine how the size, completeness, and diversity of a dataset affects the performance of a machine learning algorithm, and see that machine learning algorithms may extract features that may be different from the conceptual features that humans find valuable or informative.
+Students will apply what they've learned about artificial intelligence to create a unique, creative program in Scratch.
+Students will explore types of Generative AI technology, including Generative Adversarial Networks (GANs). They will play a discriminator game to see how GANs work, and learn to use some of the tools that help model how AI technology works.
+Students will also dig into the social implications of generative AI, including deepfakes and style transfer, all while discussing the real world impact of AI technology.
+Students will explore the big idea that intelligent agents require many kinds of knowledge to interact naturally with humans. 
+Students will look deeper at how AI technology mimics natural language and common sense reasoning in order to appear more natural and lifelike. Topics include chatbots, data collection and privacy, and a debate about the future of society as AI technology continues to advance at a faster and faster pace.
+Sstudents will apply what they've learned about artificial intelligence to create a unique, creative program in Scratch.
 
 ### Learning Activities
 
