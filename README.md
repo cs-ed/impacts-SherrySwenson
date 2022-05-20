@@ -12,11 +12,11 @@ This course will serve as an introduction to computer science concepts using Pro
 CS Explorations 2: Artificial Intelligence - This curriculum was chosen because of its focus on social implications. According to Project Stem:
 > This course provides students with an introduction to artificial intelligence, designed around engaging activities and lessons that integrate CS and computational thinking concepts with ethical design and responsible use, as students explore how these technologies can help solve problems and improve life for themselves and their communities.
 
-- Block A: Getting Started With Artificial Intelligence
+1. Block A: Getting Started With Artificial Intelligence
 
-- Block B: Representation, Reasoning, and Machine Learning
+2. Block B: Representation, Reasoning, and Machine Learning
 
-- Block C: Generative AI and Applied AI
+3. Block C: Generative AI and Applied AI
 
 Remember/Understand/ApplyA/nalyze/Evaluate/Create
 - Students start exploring what artificial intelligence is and how it is defined. 
