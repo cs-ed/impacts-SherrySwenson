@@ -19,7 +19,7 @@ CS Explorations 2: Artificial Intelligence - This curriculum was chosen because 
 - Block C: Generative AI and Applied AI
 
 Remember/Understand/ApplyA/nalyze/Evaluate/Create
-Students start exploring what artificial intelligence is and how it is defined. 
+-Students start exploring what artificial intelligence is and how it is defined. 
 Students will begin with an overview of topics including the definition of intelligence, the key principles that will be covered in this course, and how to use Scratch.
 Students are introduced to artificial intelligence in more detail as they examine four fields that rely on AI technology every day: robotics, entertainment, social media, and chatbots.
 Students will continue to build a strong understanding of artificial intelligence and the technology that it is used to create.
