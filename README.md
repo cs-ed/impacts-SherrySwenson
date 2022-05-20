@@ -37,7 +37,9 @@ CS Explorations 2: Artificial Intelligence - This curriculum was chosen because 
 
 ### Learning Activities
 
-Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
+In support of inclusion, no prerequisites will be required. Students will engage in a variety of blended learning activities to foster equity and true learning.  Large group instruction will not be the norm.  Instead, small groups and hands-on learning will be preferred.  I will give students choices in research and projects and ensure the relevance of topics and theory to my students and to course outcomes.  Decision making will be a key concept in which all students will engage.
+
+
 
 ### Assessment
 
